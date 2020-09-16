@@ -1,13 +1,11 @@
 name = "X12-00"
-ammo = "500 AMMO"
-RPM = "900 RPM"
-
-
+x = int(500)
+y = float(900.50)
 
 
 print(name)
 print("--------")
-print(ammo)
-print(RPM)
+print("AMMO " + str(x))
+print("RPM " + str(y))
 print("--------")
 
