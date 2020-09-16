@@ -3,6 +3,10 @@ ammo = "500 AMMO"
 RPM = "900 RPM"
 
 
-Superweapon = name, ammo, RPM
 
-print(Superweapon)
+
+print(name)
+print("--------")
+print(ammo)
+print(RPM)
+print("--------")
